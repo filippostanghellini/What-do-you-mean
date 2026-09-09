@@ -116,6 +116,18 @@ From the marketplace:
 
 `commands/` and `skills/` are picked up by convention (no manifest listing needed).
 
+Plugin commands are namespaced, so invoke them as:
+
+```text
+/wdym:wdym
+/wdym:wdym-example
+```
+
+Note: `commands/wdym.md` and `skills/wdym/` share the same names on purpose
+(`commands/` feeds the opencode `/wdym` command). On Claude Code same-named
+entries collapse into one (`/wdym:wdym`) — same content by construction, so
+nothing is lost.
+
 ## Usage
 
 ```text

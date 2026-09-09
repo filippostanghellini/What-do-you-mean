@@ -8,5 +8,6 @@
   },
   "homepage": "https://github.com/filippostanghellini/What-do-you-mean",
   "repository": "https://github.com/filippostanghellini/What-do-you-mean",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": ["skills", "explain", "eli5", "wdym", "what-do-you-mean", "workflows"]
 }
