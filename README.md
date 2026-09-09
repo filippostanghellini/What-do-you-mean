@@ -65,8 +65,10 @@ Store login sessions in Redis instead of memory, so they survive restarts.
 
 ## 2. Simple
 - ...5 plain-word steps, one everyday analogy, mini-glossary...
+
 ## 3. Technical
 - ...steps, files, risks, simpler alternative...
+
 Shall I proceed like this, or do you want the simpler version?
 ```
 
