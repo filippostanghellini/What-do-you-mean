@@ -1,0 +1,33 @@
+{
+  "name": "opencode-wdym",
+  "version": "0.1.0",
+  "description": "What do you mean — explain coding agent plans and answers in simple terms (/wdym, 3 levels)",
+  "keywords": ["opencode-plugin", "opencode", "wdym", "what-do-you-mean", "skills", "commands", "claude-code-plugin"],
+  "license": "MIT",
+  "author": {
+    "name": "filippostanghellini",
+    "url": "https://github.com/filippostanghellini"
+  },
+  "homepage": "https://github.com/filippostanghellini/What-do-you-mean",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filippostanghellini/What-do-you-mean.git"
+  },
+  "bugs": {
+    "url": "https://github.com/filippostanghellini/What-do-you-mean/issues"
+  },
+  "type": "module",
+  "main": "./.opencode/plugins/wdym.mjs",
+  "exports": {
+    ".": "./.opencode/plugins/wdym.mjs",
+    "./plugin": "./.opencode/plugins/wdym.mjs"
+  },
+  "files": [
+    ".opencode/",
+    ".claude-plugin/",
+    "commands/",
+    "skills/",
+    "README.md",
+    "LICENSE"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "wdym",
+  "description": "What do you mean — explain coding agent plans and answers in simple terms (/wdym, 3 levels)",
+  "version": "0.1.0",
+  "author": {
+    "name": "filippostanghellini",
+    "url": "https://github.com/filippostanghellini"
+  },
+  "homepage": "https://github.com/filippostanghellini/What-do-you-mean",
+  "repository": "https://github.com/filippostanghellini/What-do-you-mean",
+  "license": "MIT"
+}

@@ -1,0 +1,4 @@
+node_modules/
+.opencode/cache/
+*.log
+.DS_Store

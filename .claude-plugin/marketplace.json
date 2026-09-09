@@ -1,0 +1,15 @@
+{
+  "name": "wdym-marketplace",
+  "owner": {
+    "name": "filippostanghellini",
+    "url": "https://github.com/filippostanghellini"
+  },
+  "plugins": [
+    {
+      "name": "wdym",
+      "source": "./",
+      "description": "What do you mean — explain coding agent plans and answers in simple terms (/wdym, 3 levels)",
+      "version": "0.1.0"
+    }
+  ]
+}
