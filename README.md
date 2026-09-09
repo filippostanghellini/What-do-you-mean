@@ -74,6 +74,15 @@ Shall I proceed like this, or do you want the simpler version?
 
 Need proof it works elsewhere? `/wdym-example` adds 1–2 real online cases with links.
 
+**Plan**
+![Agent plan proposing Redis session store](images/plan.png)
+
+**/wdym**
+![WDYM explanation on three levels](images/wdym.png)
+
+**/wdym-example**
+![WDYM-example explanation with real links](images/wdym-example.png)
+
 ## Commands
 
 | Command | What it does |
