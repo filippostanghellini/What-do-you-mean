@@ -1,6 +1,6 @@
 {
   "name": "opencode-wdym",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "What do you mean — explain coding agent plans and answers in simple terms (/wdym, 3 levels)",
   "keywords": ["opencode-plugin", "opencode", "wdym", "what-do-you-mean", "skills", "commands", "claude-code-plugin"],
   "license": "MIT",

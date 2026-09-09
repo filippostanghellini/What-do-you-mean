@@ -1,7 +1,7 @@
 {
   "name": "wdym",
   "description": "What do you mean — explain coding agent plans and answers in simple terms (/wdym, 3 levels)",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": {
     "name": "filippostanghellini",
     "url": "https://github.com/filippostanghellini"
